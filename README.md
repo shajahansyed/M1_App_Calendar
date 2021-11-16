@@ -3,4 +3,4 @@
 - 2. Print all the day of month
 - 3. Add Note
 - 4. **EXIT**
-_Enter your choice:_
+* _Enter your choice:_
