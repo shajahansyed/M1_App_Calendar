@@ -375,7 +375,7 @@ int main(){
     char ch = 'a';
     while(1){
         system("cls");
-        printf("1. Find Out the Day\n");
+        printf("1. Find out the day\n");
         printf("2. Print all the day of month\n");
         printf("3. Add Note\n");
         printf("4. EXIT\n");
