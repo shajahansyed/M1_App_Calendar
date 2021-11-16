@@ -6,3 +6,5 @@
 - **EXIT**
 
 _Enter your choice:_
+
+`User nedd to enter the entries as per requirement`
