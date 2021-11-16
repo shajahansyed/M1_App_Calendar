@@ -5,4 +5,4 @@
 - Add Note
 - **EXIT**
 
-_Enter your choice:➡️
+_Enter your choice:_
