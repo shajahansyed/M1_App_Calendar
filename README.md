@@ -7,4 +7,4 @@
 
 _Enter your choice:_
 
-`User nedd to enter the entries as per requirement`
+`User need to enter the entries as per request`
