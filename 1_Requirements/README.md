@@ -33,7 +33,7 @@ Online calendars can be used as a way to increase your productivity. One example
 ### Who
 The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
 ### What
-A calendar is a chart or device which displays the date and the day of the week, and often the whole of a particular year divided up into months, weeks, and days. ... A calendar is a particular system for dividing time into periods such as years, months, and weeks, often starting from a particular point in history.
+A calendar is a chart or device which displays the date and the day of the week, and often the whole of a particular year divided up into months, weeks, and days. A calendar is a particular system for dividing time into periods such as years, months, and weeks, often starting from a particular point in history.
 ### When
 Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones. They can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
 ### Why
