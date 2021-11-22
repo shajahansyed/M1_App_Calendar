@@ -1,0 +1,19 @@
+name: Windows C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: gcc Calender.c -o Calender.exe
+    - name: Run
+      run: .\Calender.exe
