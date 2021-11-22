@@ -2,7 +2,7 @@
 ## Intoduction
 A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar application can find what's the day is or can fetch whole month. It can also add note to a particular day in a particular month of a particular year.
 ## Objective
-In this application user need choose one of the following options appeared in homepage.
+In this application user can choose from one of the following options appeared in homepage.
 1. Find out the day
 2. Print all the day of month
 3. Add Note
