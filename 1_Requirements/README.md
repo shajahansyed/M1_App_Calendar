@@ -40,3 +40,17 @@ Calendars are useful tools for keeping track of upcoming meetings, deadlines, an
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 ### How
 A year is defined as the amount of time it takes for the Earth to orbit the sun one time. It takes about 365 days to do that.
+## Detail Requirements
+### High Level Requiremnets
+ID|Option|Description
+---|---|---
+HHR_1|Find out the day|Shows the day for particular date
+HHR_2|Print all the days of month|Fetches the month of a year
+HHR_3|Add Note|Adds note to a day
+HHR_4|EXIT| Quits the application
+### Low Level Requiremnets
+ID|Request|Description
+---|---|---
+LLR_1|List of operations|List of operations
+LLR_2|Input from the user|Select an operations
+LLR_3|Exit the program|Quits the operation
