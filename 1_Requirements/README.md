@@ -3,10 +3,10 @@
 A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar application can find what's the day is or can fetch whole month. It can also add note to a particular day in a particular month of a particular year.
 ## Objective
 In this application user can choose from one of the following options appeared in homepage.
-1. Find out the day
-2. Print all the day of month
-3. Add Note
-4. EXIT
+1.  Find out the day
+2.  Print all the day of month
+3.  Add Note
+4.  EXIT
 ## Research
 Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones. They can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
 
@@ -23,12 +23,12 @@ Not a fully funtional calendar application like cannot set reminders for events.
 ### Oppurtunities
 Online calendars can be used as a way to increase your productivity. One example of this is through time blocks. You can schedule time to work on important projects allowing you to complete those that are a priority or have deadlines.
 ### Threats
-- Data corruption is possible, altering or even deleing events.
-- Too many options can make simple event scheduling complicated.
-- Need physical access to your computer or PDA/smartphone to see schedule.
-- On PDAs: batteries can fail, leaving you calendar-less.
-- Steeper learning curve than paper.
-- Dependent on technology.
+-  Data corruption is possible, altering or even deleing events.
+-  Too many options can make simple event scheduling complicated.
+-  Need physical access to your computer or PDA/smartphone to see schedule.
+-  On PDAs: batteries can fail, leaving you calendar-less.
+-  Steeper learning curve than paper.
+-  Dependent on technology.
 ## 4W's and 1H
 ### Who
 The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
