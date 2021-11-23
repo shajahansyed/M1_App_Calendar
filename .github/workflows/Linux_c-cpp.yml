@@ -1,8 +1,8 @@
-name: C/C++ CI
+name: Linux C/C++ CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main]
   pull_request:
     branches: [ main ]
 
@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
-      run: cd 3_Implementation; make test
+    - name: build
+      run: gcc calendar.c -o calendar.exe
+    - name: Run
+      run: ./calendar.exe
