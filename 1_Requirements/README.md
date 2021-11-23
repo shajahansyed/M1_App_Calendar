@@ -15,9 +15,9 @@ It’s no wonder that people often have a variety of calendar tools to choose fr
 The problem is that people too often manage multiple calendars at once. When these calendars aren’t integrated with your work and synchronized with each other, this can lead to mass confusion, headaches, and missed deadlines.
 ## SWOT Analysis
 ### Strength
-*    This application can find the day of particular date.
-*    Shows weeks and days of a month.
-*    Can add note to a day.
+-    This application can find the day of particular date.
+-    Shows weeks and days of a month.
+-    Can add note to a day.
 ### Weakness
 Not a fully funtional calendar application like cannot set reminders for events.
 ### Oppurtunities
