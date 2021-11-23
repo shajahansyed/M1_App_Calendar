@@ -1,14 +1,14 @@
 # Calendar App
 > #### by SHAJAHAN
-# UnitTesting
+## UnitTesting
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/47a5d4b20a9d461a8c0b1ce4cd238329)](https://app.codacy.com/gh/syedshajahan/M1_App_Calendar?utm_source=github.com&utm_medium=referral&utm_content=syedshajahan/M1_App_Calendar&utm_campaign=Badge_Grade_Settings)
 [![linux os](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/Windows_c-cpp.yml)
 
-# M1_App_Calendar
+## M1_App_Calendar
 
 In this project, a version of calendar program in c is developed which will perform calendar operations depending on the input from the user.
 
-# Folder Structure :
+## Folder Structure :
 
 Folder_Name      |  Description
 -----------------|--------------
