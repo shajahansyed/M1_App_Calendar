@@ -15,20 +15,20 @@ It’s no wonder that people often have a variety of calendar tools to choose fr
 The problem is that people too often manage multiple calendars at once. When these calendars aren’t integrated with your work and synchronized with each other, this can lead to mass confusion, headaches, and missed deadlines.
 ## SWOT Analysis
 ### Strength
-- This application can find the day of particular date.
-- Shows weeks and days of a month.
-- Can add note to a day.
+-   This application can find the day of particular date.
+-   Shows weeks and days of a month.
+-   Can add note to a day.
 ### Weakness
 Not a fully funtional calendar application like cannot set reminders for events.
 ### Oppurtunities
 Online calendars can be used as a way to increase your productivity. One example of this is through time blocks. You can schedule time to work on important projects allowing you to complete those that are a priority or have deadlines.
 ### Threats
--  Data corruption is possible, altering or even deleing events.
--  Too many options can make simple event scheduling complicated.
--  Need physical access to your computer or PDA/smartphone to see schedule.
--  On PDAs: batteries can fail, leaving you calendar-less.
--  Steeper learning curve than paper.
--  Dependent on technology.
+-   Data corruption is possible, altering or even deleing events.
+-   Too many options can make simple event scheduling complicated.
+-   Need physical access to your computer or PDA/smartphone to see schedule.
+-   On PDAs: batteries can fail, leaving you calendar-less.
+-   Steeper learning curve than paper.
+-   Dependent on technology.
 ## 4W's and 1H
 ### Who
 The primary practical use of a calendar is to identify days: to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
