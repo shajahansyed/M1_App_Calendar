@@ -1,4 +1,5 @@
-# Home Page
+# Images and Videos
+## Home Page
 ![image](https://user-images.githubusercontent.com/94296103/142887298-aee40bcc-8a25-4630-9eab-c92f3fc75c82.png)
 ## Find out the day
 ![image](https://user-images.githubusercontent.com/94296103/142890011-27c64fa6-8050-402b-ab4d-51a582be614a.png)
