@@ -1,7 +1,6 @@
 # Calendar App
 > #### by SHAJAHAN
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/47a5d4b20a9d461a8c0b1ce4cd238329)](https://app.codacy.com/gh/syedshajahan/M1_App_Calendar?utm_source=github.com&utm_medium=referral&utm_content=syedshajahan/M1_App_Calendar&utm_campaign=Badge_Grade_Settings)
-[![linux os](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/Windows_c-cpp.yml)
 
 ## M1_App_Calendar
 
