@@ -8,7 +8,7 @@
 
 In this project, a version of calendar program in c is developed which will perform calendar operations depending on the input from the user.
 
-## Folder Structure :
+## Folder Structure
 
 Folder_Name      |  Description
 -----------------|--------------
