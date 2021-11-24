@@ -1,11 +1,12 @@
 # Calendar App
 > #### by SHAJAHAN
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/47a5d4b20a9d461a8c0b1ce4cd238329)](https://app.codacy.com/gh/syedshajahan/M1_App_Calendar?utm_source=github.com&utm_medium=referral&utm_content=syedshajahan/M1_App_Calendar&utm_campaign=Badge_Grade_Settings)
+![Code Quality Score](https://api.codiga.io/project/29896/score/svg)
+![Code Grade](https://api.codiga.io/project/29896/status/svg)
 
 ## M1_App_Calendar
-
 In this project, a version of calendar program in c is developed which will perform calendar operations depending on the input from the user.
-
 ## Folder Structure
 
 Folder_Name      |  Description
