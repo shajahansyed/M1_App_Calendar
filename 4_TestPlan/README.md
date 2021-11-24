@@ -1,4 +1,4 @@
-# Test Plan
+# TEST PLAN
 ## High Level Test Plan
 ID|Option|Input|Output
 ---|---|---|---
