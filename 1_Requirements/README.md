@@ -7,6 +7,8 @@ In this application user can choose from one of the following options appeared i
 2.  Print all the day of month
 3.  Add Note
 4.  EXIT
+## State of art
+![SA](https://user-images.githubusercontent.com/94296103/143249653-f4061ee4-5c8d-49ab-a250-1d1b69511ace.jpg)
 ## Research
 Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones. They can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
 
