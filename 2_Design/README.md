@@ -1,4 +1,4 @@
-# Design
+# DESIGN
 #### Main page shows user to choose the operation
 
 `1. Find out the day`
