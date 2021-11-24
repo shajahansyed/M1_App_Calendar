@@ -1,5 +1,5 @@
 PROJ_NAME = Calendar
-SRC = Calendar.c
+SRC = calendar.c
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
