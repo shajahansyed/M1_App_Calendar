@@ -1,0 +1,50 @@
+3_Implementation/calendar.c:327:5: portability: fflush() called on input stream 'stdin' may result in undefined behaviour on non-linux systems. [fflushOnInputStream]
+    fflush(stdin);
+    ^
+3_Implementation/calendar.c:328:5: warning: scanf() without field width limits can crash with huge input data. [invalidscanf]
+    scanf("%[^\n]",R.note);
+    ^
+3_Implementation/calendar.c:342:5: error: Resource handle 'fp' freed twice. [doubleFree]
+    fclose(fp);
+    ^
+3_Implementation/calendar.c:332:9: note: Resource handle 'fp' freed twice.
+        fclose(fp);
+        ^
+3_Implementation/calendar.c:342:5: note: Resource handle 'fp' freed twice.
+    fclose(fp);
+    ^
+3_Implementation/calendar.c:218:32: warning: Either the condition 'fp==NULL' is redundant or there is possible null pointer dereference: fp. [nullPointerRedundantCheck]
+    while(fread(&R,sizeof(R),1,fp) == 1){
+                               ^
+3_Implementation/calendar.c:215:11: note: Assuming that condition 'fp==NULL' is not redundant
+    if(fp == NULL){
+          ^
+3_Implementation/calendar.c:218:32: note: Null pointer dereference
+    while(fread(&R,sizeof(R),1,fp) == 1){
+                               ^
+3_Implementation/calendar.c:224:12: warning: Either the condition 'fp==NULL' is redundant or there is possible null pointer dereference: fp. [nullPointerRedundantCheck]
+    fclose(fp);
+           ^
+3_Implementation/calendar.c:215:11: note: Assuming that condition 'fp==NULL' is not redundant
+    if(fp == NULL){
+          ^
+3_Implementation/calendar.c:224:12: note: Null pointer dereference
+    fclose(fp);
+           ^
+3_Implementation/calendar.c:353:32: warning: Either the condition 'fp==NULL' is redundant or there is possible null pointer dereference: fp. [nullPointerRedundantCheck]
+    while(fread(&R,sizeof(R),1,fp) == 1){
+                               ^
+3_Implementation/calendar.c:350:11: note: Assuming that condition 'fp==NULL' is not redundant
+    if(fp == NULL){
+          ^
+3_Implementation/calendar.c:353:32: note: Null pointer dereference
+    while(fread(&R,sizeof(R),1,fp) == 1){
+                               ^
+3_Implementation/calendar.c:250:14: warning: Redundant assignment of 'x' to itself. [selfAssignment]
+            x=x;
+             ^
+3_Implementation/calendar.c:196:9: style: The scope of the variable 'day' can be reduced. [variableScope]
+    int day;
+        ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
