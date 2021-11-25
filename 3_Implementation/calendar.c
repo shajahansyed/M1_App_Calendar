@@ -380,7 +380,7 @@ int main(){
         printf("3. Add Note\n");
         printf("4. EXIT\n");
         printf("ENTER YOUR CHOICE : ");
-        //scanf("%d",&choice);
+        scanf("%d",&choice);
         system("cls");
         switch(choice){
             case 1:
