@@ -1,6 +1,7 @@
 # Calendar App
 > #### by SHAJAHAN
 [![cppcheck-action-test](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/cppcheck.yml)
+[![linux os](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/linux.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/linux.yml)
 [![static code cppcheck](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/c-cpp.yml)
 [![Unit Testing - Unity](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/unity.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/unity.yml)
 [![Git Inspector](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/syedshajahan/M1_App_Calendar/actions/workflows/git%20inspector.yml)
